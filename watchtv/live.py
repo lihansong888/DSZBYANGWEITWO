@@ -4,13 +4,14 @@ import os
 
 # ========== 填写源的地址 ==========
 URL_LIST = [
-    "http://git.yylx.win/github.com/fafa002/yf2025/blob/main/yiyifafa.txt"
+    "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt"
 ]
 
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名（yifa） ==========
 GROUP_MAP = {
     
-    "今日影视": "hansong急速港澳台",
+    "央视频道": "HS央视频道",
+    "卫视频道": "HS卫视频道",
 }
 
 # ========== 要屏蔽的节目：频道名【包含】以下任意关键词的，会被剔除不输出 ==========
