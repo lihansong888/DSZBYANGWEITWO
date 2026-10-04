@@ -3,13 +3,20 @@ import re
 import os
 # ========== 填写源的地址 ==========
 URL_LIST = [
-    "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt"
+    "https://raw.githubusercontent.com/ssili126/tv/refs/heads/main/itvlist.txt",
+    "https://raw.githubusercontent.com/807080747/iptv-txt-conve/refs/heads/main/live.txt"
 ]
 # ========== 分组映射：左边是源里的分组名，右边是输出时改后的分组名 ==========
 GROUP_MAP = {
     
     "央视频道": "HS央视频道",
     "卫视频道": "HS卫视频道",
+    "央卫频道": "HSali云",
+    "阿里云1": "HSali云",
+    "阿里云2": "HSali云",
+    "央视网频": "HSali云",
+    "央视备用": "HSali云",
+    "备用线路": "HSali云",
 }
 def parse_any(text: str):
     res = []
