@@ -13,11 +13,10 @@ GROUP_MAP = {
     "卫视频道": "HS卫视频道",
     # ========== 以下为807080747线路 ==========
     "央卫频道": "HSali云",
-    "阿里云1": "HSali云",
-    "阿里云2": "HSali云",
-    "央视网频": "HSali云",
-    "央视备用": "HSali云",
-    "备用线路": "HSali云",
+    "阿里云服1": "HSali云",
+    "阿里云服2": "HSali云",
+    "ysp-live": "HSali云",
+    "凤凰频道": "HSali云",
 }
 def parse_any(text: str):
     res = []
