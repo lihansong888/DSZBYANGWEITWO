@@ -16,7 +16,7 @@ GROUP_MAP = {
     "阿里云服1": "HSali云",
     "阿里云服2": "HSali云",
     "ysp-live": "HSali云",
-    "凤凰频道": "HSali云",
+    
 }
 def parse_any(text: str):
     res = []
