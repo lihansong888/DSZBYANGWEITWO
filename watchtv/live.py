@@ -15,6 +15,9 @@ GROUP_MAP = {
     "央卫频道": "HSali云",
     "阿里云服1": "HSali云",
     "阿里云服2": "HSali云",
+    "阿里云服3": "HSali云",    
+    "阿里云服4": "HSali云",
+    "备用线路": "HSali云",
     "ysp-live": "HSali云",
     
 }
