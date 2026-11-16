@@ -46,7 +46,7 @@ http://45.192.97.170:8880/play/7358.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV17
 http://45.192.97.170:8880/play/7359.m3u8
 #EXTINF:-1 group-title="HSali云",广东体育
-http://45.192.97.170:8880/play/9255.m3u8
+http://45.192.97.170:8880/play/10257.m3u8
 #EXTINF:-1 group-title="HSali云",赛事最经典
 http://45.192.97.170:8880/play/7360.m3u8
 #EXTINF:-1 group-title="HSali云",体坛名栏汇
@@ -373,100 +373,108 @@ https://event.pull.hebtv.com:443/live/live101.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LR•IPV4
 #EXTINF:-1 group-title="HSali云",东方卫视4K
 http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV1综合
-http://139.224.111.181:3000/608807420
-#EXTINF:-1 group-title="HSali云",CCTV2财经
-http://139.224.111.181:3000/631780532
-#EXTINF:-1 group-title="HSali云",CCTV3综艺
-http://139.224.111.181:3000/624878271
-#EXTINF:-1 group-title="HSali云",CCTV4中文国际
-http://139.224.111.181:3000/631780421
-#EXTINF:-1 group-title="HSali云",CCTV4欧洲
-http://139.224.111.181:3000/608807419
-#EXTINF:-1 group-title="HSali云",CCTV4美洲
-http://139.224.111.181:3000/608807416
-#EXTINF:-1 group-title="HSali云",CCTV5体育
-http://139.224.111.181:3000/641886683
-#EXTINF:-1 group-title="HSali云",CCTV5+体育赛事
-http://139.224.111.181:3000/641886773
-#EXTINF:-1 group-title="HSali云",CCTV6电影
-http://139.224.111.181:3000/624878396
-#EXTINF:-1 group-title="HSali云",CCTV7国防军事
-http://139.224.111.181:3000/673168121
-#EXTINF:-1 group-title="HSali云",CCTV8电视剧
-http://139.224.111.181:3000/624878356
-#EXTINF:-1 group-title="HSali云",CCTV9纪录
-http://139.224.111.181:3000/673168140
-#EXTINF:-1 group-title="HSali云",CCTV10科教
-http://139.224.111.181:3000/624878405
-#EXTINF:-1 group-title="HSali云",CCTV11戏曲
-http://139.224.111.181:3000/667987558
-#EXTINF:-1 group-title="HSali云",CCTV12社会与法
-http://139.224.111.181:3000/673168185
-#EXTINF:-1 group-title="HSali云",CCTV13新闻
-http://139.224.111.181:3000/608807423
-#EXTINF:-1 group-title="HSali云",CCTV14少儿
-http://139.224.111.181:3000/624878440
-#EXTINF:-1 group-title="HSali云",CCTV15音乐
-http://139.224.111.181:3000/673168223
-#EXTINF:-1 group-title="HSali云",CCTV17农业农村
-http://139.224.111.181:3000/673168256
-#EXTINF:-1 group-title="HSali云",北京卫视
-http://139.224.111.181:3000/630287636
-#EXTINF:-1 group-title="HSali云",河北卫视
-http://139.224.111.181:3000/962042070
-#EXTINF:-1 group-title="HSali云",辽宁卫视
-http://139.224.111.181:3000/630291707
-#EXTINF:-1 group-title="HSali云",吉林卫视
-http://139.224.111.181:3000/947472500
-#EXTINF:-1 group-title="HSali云",黑龙江卫视
-http://139.224.111.181:3000/738906901
-#EXTINF:-1 group-title="HSali云",东方卫视
-http://139.224.111.181:3000/651632648
-#EXTINF:-1 group-title="HSali云",江苏卫视
-http://139.224.111.181:3000/623899368
-#EXTINF:-1 group-title="HSali云",江西卫视
-http://139.224.111.181:3000/783847495
-#EXTINF:-1 group-title="HSali云",东南卫视
-http://139.224.111.181:3000/849116810
-#EXTINF:-1 group-title="HSali云",海峡卫视
-http://139.224.111.181:3000/849119120
-#EXTINF:-1 group-title="HSali云",河南卫视
-http://139.224.111.181:3000/790187291
-#EXTINF:-1 group-title="HSali云",湖北卫视
-http://139.224.111.181:3000/947472496
-#EXTINF:-1 group-title="HSali云",广东卫视
-http://139.224.111.181:3000/608831231
-#EXTINF:-1 group-title="HSali云",广东珠江
-http://139.224.111.181:3000/639731952
-#EXTINF:-1 group-title="HSali云",大湾区卫视
-http://139.224.111.181:3000/608917627
-#EXTINF:-1 group-title="HSali云",海南卫视
-http://139.224.111.181:3000/947472502
-#EXTINF:-1 group-title="HSali云",三沙卫视
-http://139.224.111.181:3000/961023778
-#EXTINF:-1 group-title="HSali云",海南新闻
-http://139.224.111.181:3000/962067517
-#EXTINF:-1 group-title="HSali云",​海南自贸
-http://139.224.111.181:3000/962045226
-#EXTINF:-1 group-title="HSali云",​海南社会与法
-http://139.224.111.181:3000/962045223
-#EXTINF:-1 group-title="HSali云",​海南文旅
-http://139.224.111.181:3000/962067526
-#EXTINF:-1 group-title="HSali云",​海南少儿
-http://139.224.111.181:3000/962067523
-#EXTINF:-1 group-title="HSali云",重庆卫视
-http://139.224.111.181:3000/738910914
-#EXTINF:-1 group-title="HSali云",陕西卫视
-http://139.224.111.181:3000/738910838
-#EXTINF:-1 group-title="HSali云",中国农林卫视
-http://139.224.111.181:3000/956904896
-#EXTINF:-1 group-title="HSali云",宁夏卫视
-http://139.224.111.181:3000/738910535
+#EXTINF:-1 group-title="HSali云",CCTV-1HD
+http://107.150.60.122/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-2HD
+http://107.150.60.122/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-3HD
+http://107.150.60.122/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-4HD
+http://107.150.60.122/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-5HD
+http://107.150.60.122/live/cctv5hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-6HD
+http://107.150.60.122/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-7HD
+http://107.150.60.122/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-8HD
+http://107.150.60.122/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-9HD
+http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-10HD
+http://107.150.60.122/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-11HD
+http://107.150.60.122/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-12HD
+http://107.150.60.122/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-13HD
+http://107.150.60.122/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-14HD
+http://107.150.60.122/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-15HD
+http://107.150.60.122/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-16HD
+http://107.150.60.122/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-17HD
+http://107.150.60.122/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-5+HD
+http://107.150.60.122/live/cctv5p.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-4K超高清
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 group-title="HSali云",CCTV-8K超高清
+http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 group-title="HSali云",云南卫视HD
+http://107.150.60.122/live/ynwshd.m3u8
+#EXTINF:-1 group-title="HSali云",四川卫视HD
+http://107.150.60.122/live/scwshd.m3u8
+#EXTINF:-1 group-title="HSali云",山西卫视HD
+http://107.150.60.122/live/sxwshd.m3u8
+#EXTINF:-1 group-title="HSali云",贵州卫视HD
+http://107.150.60.122/live/gzwshd.m3u8
+#EXTINF:-1 group-title="HSali云",甘肃卫视HD
+http://107.150.60.122/live/gswshd.m3u8
+#EXTINF:-1 group-title="HSali云",吉林卫视HD
+http://107.150.60.122/live/jlwshd.m3u8
+#EXTINF:-1 group-title="HSali云",安徽卫视HD
+http://107.150.60.122/live/ahwshd.m3u8
+#EXTINF:-1 group-title="HSali云",重庆卫视HD
+http://107.150.60.122/live/cqwshd.m3u8
+#EXTINF:-1 group-title="HSali云",江西卫视HD
+http://107.150.60.122/live/jxwshd.m3u8
+#EXTINF:-1 group-title="HSali云",北京卫视HD
+http://107.150.60.122/live/bjwshd.m3u8
+#EXTINF:-1 group-title="HSali云",黑龙江卫视HD
+http://107.150.60.122/live/hljwshd.m3u8
+#EXTINF:-1 group-title="HSali云",湖南卫视HD
+http://107.150.60.122/live/hnwshd.m3u8
+#EXTINF:-1 group-title="HSali云",东方卫视HD
+http://107.150.60.122/live/dfwshd.m3u8
+#EXTINF:-1 group-title="HSali云",浙江卫视HD
+http://107.150.60.122/live/zjwshd.m3u8
+#EXTINF:-1 group-title="HSali云",江苏卫视HD
+http://107.150.60.122/live/jswshd.m3u8
+#EXTINF:-1 group-title="HSali云",东南卫视HD
+http://107.150.60.122/live/dnwshd.m3u8
+#EXTINF:-1 group-title="HSali云",广西卫视HD
+http://107.150.60.122/live/gxwshd.m3u8
+#EXTINF:-1 group-title="HSali云",湖北卫视HD
+http://107.150.60.122/live/hbwshd.m3u8
+#EXTINF:-1 group-title="HSali云",辽宁卫视HD
+http://107.150.60.122/live/lnwshd.m3u8
+#EXTINF:-1 group-title="HSali云",山东卫视HD
+http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="HSali云",河南卫视HD
+http://107.150.60.122/live/hawshd.m3u8
+#EXTINF:-1 group-title="HSali云",天津卫视HD
+http://107.150.60.122/live/tjwshd.m3u8
+#EXTINF:-1 group-title="HSali云",陕西卫视HD
+http://107.150.60.122/live/snwshd.m3u8
+#EXTINF:-1 group-title="HSali云",内蒙古卫视HD
+http://107.150.60.122/live/nmgws.m3u8
+#EXTINF:-1 group-title="HSali云",广东卫视HD
+http://107.150.60.122/live/gdwshd.m3u8
+#EXTINF:-1 group-title="HSali云",深圳卫视HD
+http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 group-title="HSali云",新疆卫视HD
+http://107.150.60.122/live/xjws.m3u8
+#EXTINF:-1 group-title="HSali云",宁夏卫视HD
+http://107.150.60.122/live/nxws.m3u8
 #EXTINF:-1 group-title="HSali云",青海卫视
-http://139.224.111.181:3000/947472506
-#EXTINF:-1 group-title="HSali云",兵团卫视
-http://139.224.111.181:3000/956923145
+http://107.150.60.122/live/qhws.m3u8
+#EXTINF:-1 group-title="HSali云",西藏卫视
+http://107.150.60.122/live/xzws.m3u8
+#EXTINF:-1 group-title="HSali云",海南卫视HD
+http://107.150.60.122/live/hpws.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV1
 http://27.223.170.170:4000/udp/239.253.254.77:8000
 #EXTINF:-1 group-title="HSali云",CCTV2
