@@ -1,40 +1,58 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS央视频道",CCTV-6电影
-http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
-#EXTINF:-1 group-title="HS央视频道",CCTV-9 纪录
-https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6563d759f15bd6018ac02a9b14adc0a1
+#EXTINF:-1 group-title="HS央视频道",CCTV1
+http://45.192.97.170:8880/play/11914.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV2
+http://45.192.97.170:8880/play/11915.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV3
+http://45.192.97.170:8880/play/11916.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV4
+http://45.192.97.170:8880/play/11917.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV5
+http://45.192.97.170:8880/play/11918.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV5+
+http://45.192.97.170:8880/play/11919.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV6
+http://45.192.97.170:8880/play/11920.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV7
+http://45.192.97.170:8880/play/11921.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV8
+http://45.192.97.170:8880/play/11922.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV9
+http://45.192.97.170:8880/play/11923.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV10
+http://45.192.97.170:8880/play/11924.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV11
+http://45.192.97.170:8880/play/11925.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV12
+http://45.192.97.170:8880/play/11926.m3u8
 #EXTINF:-1 group-title="HS央视频道",CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+http://45.192.97.170:8880/play/11927.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV14
+http://45.192.97.170:8880/play/11928.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV15
+http://45.192.97.170:8880/play/11929.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV16
+http://45.192.97.170:8880/play/11930.m3u8
 #EXTINF:-1 group-title="HS央视频道",CCTV17
-https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS央视频道",CCTV怀旧剧场
-https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS央视频道",CCTV文化精品
-https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS央视频道",CCTV第一剧场
-https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS央视频道",CGTN
-http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN俄语
-https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN法语
-https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN英语
-https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN西语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN记录
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 group-title="HS央视频道",CGTN阿语
-http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-#EXTINF:-1 group-title="HS央视频道",兵器科技
-https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS央视频道",熊猫直播
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+http://45.192.97.170:8880/play/11931.m3u8
+#EXTINF:-1 group-title="HS央视频道",第一剧场
+http://45.192.97.170:8880/play/11932.m3u8
 #EXTINF:-1 group-title="HS央视频道",风云剧场
-https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://45.192.97.170:8880/play/11933.m3u8
+#EXTINF:-1 group-title="HS央视频道",怀旧剧场
+http://45.192.97.170:8880/play/11934.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtnar
+http://45.192.97.170:8880/play/11935.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtndoc
+http://45.192.97.170:8880/play/11936.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtn
+http://45.192.97.170:8880/play/11937.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtnfr
+http://45.192.97.170:8880/play/11938.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtnru
+http://45.192.97.170:8880/play/11939.m3u8
+#EXTINF:-1 group-title="HS央视频道",cgtnsp
+http://45.192.97.170:8880/play/11940.m3u8
 #EXTINF:-1 group-title="HS卫视频道",东南卫视
 http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",安徽卫视
@@ -43,62 +61,74 @@ http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",江苏卫视
 http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-#EXTINF:-1 group-title="HS卫视频道",云南卫视
-https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-#EXTINF:-1 group-title="HS卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
-http://120.76.248.139/live/bfgd/4200000110.m3u8
-#EXTINF:-1 group-title="HS卫视频道",农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 group-title="HS卫视频道",凤凰卫视台
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="HS卫视频道",厦门卫视
-http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 group-title="HS卫视频道",吉林卫视
-http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",四川卫视
-https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 group-title="HS卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 group-title="HS卫视频道",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="HS卫视频道",广东卫视
-https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 group-title="HS卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8
-#EXTINF:-1 group-title="HS卫视频道",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 group-title="HS卫视频道",江苏卫视4K
-http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 group-title="HS卫视频道",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",河北卫视
-http://120.76.248.139/live/bfgd/4200000108.m3u8
-#EXTINF:-1 group-title="HS卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="HS卫视频道",海南卫视
-http://120.76.248.139/live/bfgd/4200000473.m3u8
-#EXTINF:-1 group-title="HS卫视频道",海峡卫视
-http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1 group-title="HS卫视频道",北京卫视
+http://45.192.97.170:8880/play/11941.m3u8
 #EXTINF:-1 group-title="HS卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="HS卫视频道",澳门卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="HS卫视频道",西藏卫视
-https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://45.192.97.170:8880/play/11942.m3u8
+#EXTINF:-1 group-title="HS卫视频道",江苏卫视
+http://45.192.97.170:8880/play/11943.m3u8
+#EXTINF:-1 group-title="HS卫视频道",东方卫视
+http://45.192.97.170:8880/play/11944.m3u8
+#EXTINF:-1 group-title="HS卫视频道",浙江卫视
+http://45.192.97.170:8880/play/11945.m3u8
+#EXTINF:-1 group-title="HS卫视频道",湖北卫视
+http://45.192.97.170:8880/play/11946.m3u8
+#EXTINF:-1 group-title="HS卫视频道",天津卫视
+http://45.192.97.170:8880/play/11947.m3u8
+#EXTINF:-1 group-title="HS卫视频道",山东卫视
+http://45.192.97.170:8880/play/11948.m3u8
+#EXTINF:-1 group-title="HS卫视频道",辽宁卫视
+http://45.192.97.170:8880/play/11949.m3u8
+#EXTINF:-1 group-title="HS卫视频道",安徽卫视
+http://45.192.97.170:8880/play/11950.m3u8
+#EXTINF:-1 group-title="HS卫视频道",黑龙江卫视
+http://45.192.97.170:8880/play/11951.m3u8
 #EXTINF:-1 group-title="HS卫视频道",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://45.192.97.170:8880/play/11952.m3u8
+#EXTINF:-1 group-title="HS卫视频道",东南卫视
+http://45.192.97.170:8880/play/11953.m3u8
 #EXTINF:-1 group-title="HS卫视频道",重庆卫视
-https://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611190906/app_2/_definst_/ls_2.stream/chunklist.m3u8
+http://45.192.97.170:8880/play/11954.m3u8
+#EXTINF:-1 group-title="HS卫视频道",江西卫视
+http://45.192.97.170:8880/play/11955.m3u8
+#EXTINF:-1 group-title="HS卫视频道",广东卫视
+http://45.192.97.170:8880/play/11956.m3u8
+#EXTINF:-1 group-title="HS卫视频道",河北卫视
+http://45.192.97.170:8880/play/11957.m3u8
+#EXTINF:-1 group-title="HS卫视频道",深圳卫视
+http://45.192.97.170:8880/play/11958.m3u8
+#EXTINF:-1 group-title="HS卫视频道",吉林卫视
+http://45.192.97.170:8880/play/11959.m3u8
+#EXTINF:-1 group-title="HS卫视频道",河南卫视
+http://45.192.97.170:8880/play/11960.m3u8
+#EXTINF:-1 group-title="HS卫视频道",四川卫视
+http://45.192.97.170:8880/play/11961.m3u8
+#EXTINF:-1 group-title="HS卫视频道",广西卫视
+http://45.192.97.170:8880/play/11962.m3u8
 #EXTINF:-1 group-title="HS卫视频道",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://45.192.97.170:8880/play/11963.m3u8
+#EXTINF:-1 group-title="HS卫视频道",山西卫视
+http://45.192.97.170:8880/play/11964.m3u8
+#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
+http://45.192.97.170:8880/play/11965.m3u8
 #EXTINF:-1 group-title="HS卫视频道",青海卫视
-https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+http://45.192.97.170:8880/play/11966.m3u8
+#EXTINF:-1 group-title="HS卫视频道",海南卫视
+http://45.192.97.170:8880/play/11967.m3u8
+#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
+http://45.192.97.170:8880/play/11968.m3u8
+#EXTINF:-1 group-title="HS卫视频道",西藏卫视
+http://45.192.97.170:8880/play/11969.m3u8
+#EXTINF:-1 group-title="HS卫视频道",新疆卫视
+http://45.192.97.170:8880/play/11970.m3u8
+#EXTINF:-1 group-title="HS卫视频道",甘肃卫视
+http://45.192.97.170:8880/play/11971.m3u8
+#EXTINF:-1 group-title="HS卫视频道",云南卫视
+http://45.192.97.170:8880/play/11972.m3u8
+#EXTINF:-1 group-title="HS卫视频道",兵团卫视
+http://45.192.97.170:8880/play/11973.m3u8
+#EXTINF:-1 group-title="HS卫视频道",国学频道
+http://45.192.97.170:8880/play/11974.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV1
 http://45.192.97.170:8880/play/10310.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV2
@@ -138,7 +168,7 @@ http://45.192.97.170:8880/play/10327.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV17
 http://45.192.97.170:8880/play/10328.m3u8
 #EXTINF:-1 group-title="HSali云",广东体育
-http://45.192.97.170:8880/play/10257.m3u8
+http://45.192.97.170:8880/play/11913.m3u8
 #EXTINF:-1 group-title="HSali云",赛事最经典
 http://45.192.97.170:8880/play/10329.m3u8
 #EXTINF:-1 group-title="HSali云",体坛名栏汇
@@ -363,174 +393,222 @@ http://107.150.60.122/live/qhws.m3u8
 http://107.150.60.122/live/xzws.m3u8
 #EXTINF:-1 group-title="HSali云",海南卫视HD
 http://107.150.60.122/live/hpws.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV1
-http://27.223.170.170:4000/udp/239.253.254.77:8000
-#EXTINF:-1 group-title="HSali云",CCTV2
-http://27.223.170.170:4000/udp/239.253.254.232:8000
-#EXTINF:-1 group-title="HSali云",CCTV3
-http://27.223.170.170:4000/udp/239.253.254.191:8000
-#EXTINF:-1 group-title="HSali云",CCTV4
-http://27.223.170.170:4000/udp/239.253.254.187:8000
-#EXTINF:-1 group-title="HSali云",CCTV5
-http://27.223.170.170:4000/udp/239.253.254.192:8000
-#EXTINF:-1 group-title="HSali云",CCTV5+
-http://27.223.170.170:4000/udp/239.253.254.80:8000
-#EXTINF:-1 group-title="HSali云",CCTV6
-http://27.223.170.170:4000/udp/239.253.254.193:8000
-#EXTINF:-1 group-title="HSali云",CCTV7
-http://27.223.170.170:4000/udp/239.253.254.233:8000
-#EXTINF:-1 group-title="HSali云",CCTV8
-http://27.223.170.170:4000/udp/239.253.254.194:8000
-#EXTINF:-1 group-title="HSali云",CCTV9
-http://27.223.170.170:4000/udp/239.253.254.79:8000
-#EXTINF:-1 group-title="HSali云",CCTV10
-http://27.223.170.170:4000/udp/239.253.254.234:8000
-#EXTINF:-1 group-title="HSali云",CCTV11
-http://27.223.170.170:4000/udp/239.253.254.169:8000
-#EXTINF:-1 group-title="HSali云",CCTV12
-http://27.223.170.170:4000/udp/239.253.254.235:8000
-#EXTINF:-1 group-title="HSali云",CCTV13
-http://27.223.170.170:4000/udp/239.253.254.175:8000
-#EXTINF:-1 group-title="HSali云",CCTV14
-http://27.223.170.170:4000/udp/239.253.254.236:8000
-#EXTINF:-1 group-title="HSali云",CCTV15
-http://27.223.170.170:4000/udp/239.253.254.170:8000
-#EXTINF:-1 group-title="HSali云",CCTV17
-http://27.223.170.170:4000/udp/239.253.254.168:8000
-#EXTINF:-1 group-title="HSali云",CETV1
-http://27.223.170.170:4000/udp/239.253.254.110:8000
-#EXTINF:-1 group-title="HSali云",CETV4
-http://27.223.170.170:4000/udp/239.253.254.116:8000
+#EXTINF:-1 group-title="HSali云",CCTV1综合
+http://A/ku9/js/咪咕超简版.js?id=608807420
+#EXTINF:-1 group-title="HSali云",CCTV2财经
+http://A/ku9/js/咪咕超简版.js?id=631780532
+#EXTINF:-1 group-title="HSali云",CCTV3综艺
+http://A/ku9/js/咪咕超简版.js?id=624878271
+#EXTINF:-1 group-title="HSali云",CCTV4中文国际
+http://A/ku9/js/咪咕超简版.js?id=631780421
+#EXTINF:-1 group-title="HSali云",CCTV5体育
+http://A/ku9/js/咪咕超简版.js?id=641886683
+#EXTINF:-1 group-title="HSali云",CCTV5+体育赛事
+http://A/ku9/js/咪咕超简版.js?id=641886773
+#EXTINF:-1 group-title="HSali云",CCTV6电影
+http://A/ku9/js/咪咕超简版.js?id=624878396
+#EXTINF:-1 group-title="HSali云",CCTV7国防军事
+http://A/ku9/js/咪咕超简版.js?id=673168121
+#EXTINF:-1 group-title="HSali云",CCTV8电视剧
+http://A/ku9/js/咪咕超简版.js?id=624878356
+#EXTINF:-1 group-title="HSali云",CCTV9纪录
+http://A/ku9/js/咪咕超简版.js?id=673168140
+#EXTINF:-1 group-title="HSali云",CCTV10科教
+http://A/ku9/js/咪咕超简版.js?id=624878405
+#EXTINF:-1 group-title="HSali云",CCTV11戏曲
+http://A/ku9/js/咪咕超简版.js?id=667987558
+#EXTINF:-1 group-title="HSali云",CCTV12社会与法
+http://A/ku9/js/咪咕超简版.js?id=673168185
+#EXTINF:-1 group-title="HSali云",CCTV13新闻
+http://A/ku9/js/咪咕超简版.js?id=608807423
+#EXTINF:-1 group-title="HSali云",CCTV14少儿
+http://A/ku9/js/咪咕超简版.js?id=624878440
+#EXTINF:-1 group-title="HSali云",CCTV15音乐
+http://A/ku9/js/咪咕超简版.js?id=673168223
+#EXTINF:-1 group-title="HSali云",CCTV17农业农村
+http://A/ku9/js/咪咕超简版.js?id=673168256
+#EXTINF:-1 group-title="HSali云",CCTV4欧洲
+http://A/ku9/js/咪咕超简版.js?id=608807419
+#EXTINF:-1 group-title="HSali云",CCTV4美洲
+http://A/ku9/js/咪咕超简版.js?id=608807416
+#EXTINF:-1 group-title="HSali云",CGTN外语纪录
+http://A/ku9/js/咪咕超简版.js?id=609006487
+#EXTINF:-1 group-title="HSali云",CGTN阿拉伯语
+http://A/ku9/js/咪咕超简版.js?id=609154345
+#EXTINF:-1 group-title="HSali云",CGTN西班牙语
+http://A/ku9/js/咪咕超简版.js?id=609006450
+#EXTINF:-1 group-title="HSali云",CGTN法语
+http://A/ku9/js/咪咕超简版.js?id=609006476
+#EXTINF:-1 group-title="HSali云",CGTN俄语
+http://A/ku9/js/咪咕超简版.js?id=609006446
+#EXTINF:-1 group-title="HSali云",老故事
+http://A/ku9/js/咪咕超简版.js?id=884121956
+#EXTINF:-1 group-title="HSali云",中学生
+http://A/ku9/js/咪咕超简版.js?id=708869532
 #EXTINF:-1 group-title="HSali云",CGTN
-http://27.223.170.170:4000/udp/239.253.254.189:8000
-#EXTINF:-1 group-title="HSali云",CHC动作电影
-http://27.223.170.170:4000/udp/239.253.254.153:8000
-#EXTINF:-1 group-title="HSali云",CHC高清电影
-http://27.223.170.170:4000/udp/239.253.254.154:8000
-#EXTINF:-1 group-title="HSali云",CHC家庭影院
-http://27.223.170.170:4000/udp/239.253.254.152:8000
-#EXTINF:-1 group-title="HSali云",安徽卫视
-http://27.223.170.170:4000/udp/239.253.254.87:8000
-#EXTINF:-1 group-title="HSali云",北京卫视
-http://27.223.170.170:4000/udp/239.253.254.85:8000
-#EXTINF:-1 group-title="HSali云",茶频道
-http://27.223.170.170:4000/udp/239.253.254.143:8000
-#EXTINF:-1 group-title="HSali云",东方财经
-http://27.223.170.170:4000/udp/239.253.254.94:8000
+http://A/ku9/js/咪咕超简版.js?id=609017205
 #EXTINF:-1 group-title="HSali云",东方卫视
-http://27.223.170.170:4000/udp/239.253.254.86:8000
-#EXTINF:-1 group-title="HSali云",东南卫视
-http://27.223.170.170:4000/udp/239.253.254.105:8000
-#EXTINF:-1 group-title="HSali云",动漫秀场
-http://27.223.170.170:4000/udp/239.253.254.115:8000
-#EXTINF:-1 group-title="HSali云",都市剧场
-http://27.223.170.170:4000/udp/239.253.254.98:8000
-#EXTINF:-1 group-title="HSali云",法治天地
-http://27.223.170.170:4000/udp/239.253.254.96:8000
-#EXTINF:-1 group-title="HSali云",甘肃卫视
-http://27.223.170.170:4000/udp/239.253.254.74:8000
-#EXTINF:-1 group-title="HSali云",广东卫视
-http://27.223.170.170:4000/udp/239.253.254.90:8000
-#EXTINF:-1 group-title="HSali云",广西卫视
-http://27.223.170.170:4000/udp/239.253.254.197:8000
-#EXTINF:-1 group-title="HSali云",贵州卫视
-http://27.223.170.170:4000/udp/239.253.254.113:8000
-#EXTINF:-1 group-title="HSali云",海南卫视
-http://27.223.170.170:4000/udp/239.253.254.179:8000
-#EXTINF:-1 group-title="HSali云",海洋
-http://27.223.170.170:4000/udp/239.253.254.67:8000
-#EXTINF:-1 group-title="HSali云",河北卫视
-http://27.223.170.170:4000/udp/239.253.254.112:8000
-#EXTINF:-1 group-title="HSali云",河南卫视
-http://27.223.170.170:4000/udp/239.253.254.190:8000
-#EXTINF:-1 group-title="HSali云",黑龙江卫视
-http://27.223.170.170:4000/udp/239.253.254.93:8000
-#EXTINF:-1 group-title="HSali云",湖北卫视
-http://27.223.170.170:4000/udp/239.253.254.88:8000
-#EXTINF:-1 group-title="HSali云",湖南卫视
-http://27.223.170.170:4000/udp/239.253.254.82:8000
-#EXTINF:-1 group-title="HSali云",吉林卫视
-http://27.223.170.170:4000/udp/239.253.254.173:8000
+http://A/ku9/js/咪咕超简版.js?id=651632648
 #EXTINF:-1 group-title="HSali云",江苏卫视
-http://27.223.170.170:4000/udp/239.253.254.83:8000
+http://A/ku9/js/咪咕超简版.js?id=623899368
+#EXTINF:-1 group-title="HSali云",广东卫视
+http://A/ku9/js/咪咕超简版.js?id=608831231
 #EXTINF:-1 group-title="HSali云",江西卫视
-http://27.223.170.170:4000/udp/239.253.254.47:8000
-#EXTINF:-1 group-title="HSali云",金色学堂
-http://27.223.170.170:4000/udp/239.253.254.101:8000
-#EXTINF:-1 group-title="HSali云",金鹰纪实
-http://27.223.170.170:4000/udp/239.253.254.103:8000
-#EXTINF:-1 group-title="HSali云",金鹰卡通
-http://27.223.170.170:4000/udp/239.253.254.117:8000
-#EXTINF:-1 group-title="HSali云",精彩电影
-http://27.223.170.170:4000/udp/239.253.254.142:8000
-#EXTINF:-1 group-title="HSali云",卡酷少儿
-http://27.223.170.170:4000/udp/239.253.254.66:8000
-#EXTINF:-1 group-title="HSali云",莱西
-http://27.223.170.170:4000/udp/239.253.254.247:8000
-#EXTINF:-1 group-title="HSali云",崂山
-http://27.223.170.170:4000/udp/239.253.254.242:8000
-#EXTINF:-1 group-title="HSali云",梨园
-http://27.223.170.170:4000/udp/239.253.254.139:8000
-#EXTINF:-1 group-title="HSali云",辽宁卫视
-http://27.223.170.170:4000/udp/239.253.254.92:8000
-#EXTINF:-1 group-title="HSali云",魅力足球
-http://27.223.170.170:4000/udp/239.253.254.100:8000
-#EXTINF:-1 group-title="HSali云",平度
-http://27.223.170.170:4000/udp/239.253.254.248:8000
-#EXTINF:-1 group-title="HSali云",青岛李沧
-http://27.223.170.170:4000/udp/239.253.254.253:8000
-#EXTINF:-1 group-title="HSali云",青岛生活
-http://27.223.170.170:4000/udp/239.253.254.244:8000
-#EXTINF:-1 group-title="HSali云",青岛综合
-http://27.223.170.170:4000/udp/239.253.254.243:8000
+http://A/ku9/js/咪咕超简版.js?id=783847495
+#EXTINF:-1 group-title="HSali云",河南卫视
+http://A/ku9/js/咪咕超简版.js?id=790187291
+#EXTINF:-1 group-title="HSali云",陕西卫视
+http://A/ku9/js/咪咕超简版.js?id=738910838
+#EXTINF:-1 group-title="HSali云",大湾区卫视
+http://A/ku9/js/咪咕超简版.js?id=608917627
+#EXTINF:-1 group-title="HSali云",湖北卫视
+http://A/ku9/js/咪咕超简版.js?id=947472496
+#EXTINF:-1 group-title="HSali云",吉林卫视
+http://A/ku9/js/咪咕超简版.js?id=947472500
 #EXTINF:-1 group-title="HSali云",青海卫视
-http://27.223.170.170:4000/udp/239.253.254.195:8000
-#EXTINF:-1 group-title="HSali云",山东教育
-http://27.223.170.170:4000/udp/239.253.254.59:8000
-#EXTINF:-1 group-title="HSali云",山东农科
-http://27.223.170.170:4000/udp/239.253.254.24:8000
-#EXTINF:-1 group-title="HSali云",山东齐鲁
-http://27.223.170.170:4000/udp/239.253.254.114:8000
-#EXTINF:-1 group-title="HSali云",山东少儿
-http://27.223.170.170:4000/udp/239.253.254.25:8000
-#EXTINF:-1 group-title="HSali云",山东生活
-http://27.223.170.170:4000/udp/239.253.254.151:8000
-#EXTINF:-1 group-title="HSali云",山东体育
-http://27.223.170.170:4000/udp/239.253.254.22:8000
-#EXTINF:-1 group-title="HSali云",山东卫视
-http://27.223.170.170:4000/udp/239.253.254.78:8000
-#EXTINF:-1 group-title="HSali云",山东文旅
-http://27.223.170.170:4000/udp/239.253.254.160:8000
-#EXTINF:-1 group-title="HSali云",山东新闻
-http://27.223.170.170:4000/udp/239.253.254.23:8000
-#EXTINF:-1 group-title="HSali云",山东综艺
-http://27.223.170.170:4000/udp/239.253.254.159:8000
-#EXTINF:-1 group-title="HSali云",深圳卫视
-http://27.223.170.170:4000/udp/239.253.254.91:8000
-#EXTINF:-1 group-title="HSali云",生活时尚
-http://27.223.170.170:4000/udp/239.253.254.99:8000
-#EXTINF:-1 group-title="HSali云",四川卫视
-http://27.223.170.170:4000/udp/239.253.254.180:8000
+http://A/ku9/js/咪咕超简版.js?id=947472506
+#EXTINF:-1 group-title="HSali云",东南卫视
+http://A/ku9/js/咪咕超简版.js?id=849116810
+#EXTINF:-1 group-title="HSali云",海南卫视
+http://A/ku9/js/咪咕超简版.js?id=947472502
+#EXTINF:-1 group-title="HSali云",海峡卫视
+http://A/ku9/js/咪咕超简版.js?id=849119120
+#EXTINF:-1 group-title="HSali云",中国农林卫视
+http://A/ku9/js/咪咕超简版.js?id=956904896
+#EXTINF:-1 group-title="HSali云",兵团卫视
+http://A/ku9/js/咪咕超简版.js?id=956923145
+#EXTINF:-1 group-title="HSali云",辽宁卫视
+http://A/ku9/js/咪咕超简版.js?id=630291707
+#EXTINF:-1 group-title="HSali云",上海新闻综合
+http://A/ku9/js/咪咕超简版.js?id=651632657
+#EXTINF:-1 group-title="HSali云",上视东方影视
+http://A/ku9/js/咪咕超简版.js?id=617290047
+#EXTINF:-1 group-title="HSali云",南京新闻综合频道
+http://A/ku9/js/咪咕超简版.js?id=838109047
+#EXTINF:-1 group-title="HSali云",南京教科频道
+http://A/ku9/js/咪咕超简版.js?id=838153729
+#EXTINF:-1 group-title="HSali云",南京十八频道
+http://A/ku9/js/咪咕超简版.js?id=838151753
+#EXTINF:-1 group-title="HSali云",江苏城市频道
+http://A/ku9/js/咪咕超简版.js?id=626064714
+#EXTINF:-1 group-title="HSali云",江苏国际
+http://A/ku9/js/咪咕超简版.js?id=626064674
+#EXTINF:-1 group-title="HSali云",江苏教育
+http://A/ku9/js/咪咕超简版.js?id=628008321
+#EXTINF:-1 group-title="HSali云",江苏影视频道
+http://A/ku9/js/咪咕超简版.js?id=626064697
+#EXTINF:-1 group-title="HSali云",江苏综艺频道
+http://A/ku9/js/咪咕超简版.js?id=626065193
+#EXTINF:-1 group-title="HSali云",公共新闻频道
+http://A/ku9/js/咪咕超简版.js?id=626064693
+#EXTINF:-1 group-title="HSali云",盐城新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731825
+#EXTINF:-1 group-title="HSali云",淮安新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731826
+#EXTINF:-1 group-title="HSali云",泰州新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731818
+#EXTINF:-1 group-title="HSali云",连云港新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731715
+#EXTINF:-1 group-title="HSali云",宿迁新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731832
+#EXTINF:-1 group-title="HSali云",徐州新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639731747
+#EXTINF:-1 group-title="HSali云",优漫卡通频道
+http://A/ku9/js/咪咕超简版.js?id=626064703
+#EXTINF:-1 group-title="HSali云",江阴新闻综合
+http://A/ku9/js/咪咕超简版.js?id=955227979
+#EXTINF:-1 group-title="HSali云",南通新闻综合
+http://A/ku9/js/咪咕超简版.js?id=955227985
+#EXTINF:-1 group-title="HSali云",宜兴新闻综合
+http://A/ku9/js/咪咕超简版.js?id=955227996
+#EXTINF:-1 group-title="HSali云",溧水新闻综合
+http://A/ku9/js/咪咕超简版.js?id=639737327
+#EXTINF:-1 group-title="HSali云",陕西银龄频道
+http://A/ku9/js/咪咕超简版.js?id=956909362
+#EXTINF:-1 group-title="HSali云",陕西都市青春频道
+http://A/ku9/js/咪咕超简版.js?id=956909358
+#EXTINF:-1 group-title="HSali云",陕西体育休闲频道
+http://A/ku9/js/咪咕超简版.js?id=956909356
+#EXTINF:-1 group-title="HSali云",陕西秦腔频道
+http://A/ku9/js/咪咕超简版.js?id=956909303
+#EXTINF:-1 group-title="HSali云",陕西新闻资讯频道
+http://A/ku9/js/咪咕超简版.js?id=956909289
+#EXTINF:-1 group-title="HSali云",财富天下
+http://A/ku9/js/咪咕超简版.js?id=956923159
+#EXTINF:-1 group-title="HSali云",经典香港电影
+http://A/ku9/js/咪咕超简版.js?id=625703337
+#EXTINF:-1 group-title="HSali云",抗战经典影片
+http://A/ku9/js/咪咕超简版.js?id=617432318
+#EXTINF:-1 group-title="HSali云",新片放映厅
+http://A/ku9/js/咪咕超简版.js?id=619495952
+#EXTINF:-1 group-title="HSali云",CHC影迷电影
+http://A/ku9/js/咪咕超简版.js?id=952383261
+#EXTINF:-1 group-title="HSali云",和美乡途轮播台
+http://A/ku9/js/咪咕超简版.js?id=713591450
+#EXTINF:-1 group-title="HSali云",高清大片
+http://A/ku9/js/咪咕超简版.js?id=629943678
+#EXTINF:-1 group-title="HSali云",南方影视
+http://A/ku9/js/咪咕超简版.js?id=614961829
+#EXTINF:-1 group-title="HSali云",血色山河·抗日战争影像志
+http://A/ku9/js/咪咕超简版.js?id=713600957
+#EXTINF:-1 group-title="HSali云",熊猫频道01高清
+http://A/ku9/js/咪咕超简版.js?id=609158151
+#EXTINF:-1 group-title="HSali云",熊猫频道1
+http://A/ku9/js/咪咕超简版.js?id=608933610
+#EXTINF:-1 group-title="HSali云",熊猫频道2
+http://A/ku9/js/咪咕超简版.js?id=608933640
+#EXTINF:-1 group-title="HSali云",熊猫频道3
+http://A/ku9/js/咪咕超简版.js?id=608934619
+#EXTINF:-1 group-title="HSali云",熊猫频道4
+http://A/ku9/js/咪咕超简版.js?id=608934721
+#EXTINF:-1 group-title="HSali云",熊猫频道5
+http://A/ku9/js/咪咕超简版.js?id=608935104
+#EXTINF:-1 group-title="HSali云",熊猫频道6
+http://A/ku9/js/咪咕超简版.js?id=608935797
+#EXTINF:-1 group-title="HSali云",熊猫频道7
+http://A/ku9/js/咪咕超简版.js?id=609169286
+#EXTINF:-1 group-title="HSali云",熊猫频道8
+http://A/ku9/js/咪咕超简版.js?id=609169287
+#EXTINF:-1 group-title="HSali云",熊猫频道9
+http://A/ku9/js/咪咕超简版.js?id=609169226
+#EXTINF:-1 group-title="HSali云",熊猫频道10
+http://A/ku9/js/咪咕超简版.js?id=609169285
+#EXTINF:-1 group-title="HSali云",最强综艺趴
+http://A/ku9/js/咪咕超简版.js?id=629942228
+#EXTINF:-1 group-title="HSali云",嘉佳卡通
+http://A/ku9/js/咪咕超简版.js?id=614952364
+#EXTINF:-1 group-title="HSali云",经典动画大集合
+http://A/ku9/js/咪咕超简版.js?id=629942219
+#EXTINF:-1 group-title="HSali云",新动力量创一流
+http://A/ku9/js/咪咕超简版.js?id=713589837
+#EXTINF:-1 group-title="HSali云",环球旅游
+http://A/ku9/js/咪咕超简版.js?id=958475356
+#EXTINF:-1 group-title="HSali云",钱塘江
+http://A/ku9/js/咪咕超简版.js?id=647370520
+#EXTINF:-1 group-title="HSali云",五环传奇
+http://A/ku9/js/咪咕超简版.js?id=707671890
+#EXTINF:-1 group-title="HSali云",赛事最经典
+http://A/ku9/js/咪咕超简版.js?id=646596895
+#EXTINF:-1 group-title="HSali云",掼蛋精英赛
+http://A/ku9/js/咪咕超简版.js?id=631354620
+#EXTINF:-1 group-title="HSali云",体坛名栏汇
+http://A/ku9/js/咪咕超简版.js?id=629943305
 #EXTINF:-1 group-title="HSali云",四海钓鱼
-http://27.223.170.170:4000/udp/239.253.254.144:8000
-#EXTINF:-1 group-title="HSali云",天津卫视
-http://27.223.170.170:4000/udp/239.253.254.89:8000
-#EXTINF:-1 group-title="HSali云",文物宝库
-http://27.223.170.170:4000/udp/239.253.254.141:8000
+http://A/ku9/js/咪咕超简版.js?id=637444975
+#EXTINF:-1 group-title="HSali云",咪咕24小时体育台
+http://A/ku9/js/咪咕超简版.js?id=654102378
+#EXTINF:-1 group-title="HSali云",24小时城市联赛轮播台
+http://A/ku9/js/咪咕超简版.js?id=915512915
 #EXTINF:-1 group-title="HSali云",武术世界
-http://27.223.170.170:4000/udp/239.253.254.140:8000
-#EXTINF:-1 group-title="HSali云",云南卫视
-http://27.223.170.170:4000/udp/239.253.254.196:8000
-#EXTINF:-1 group-title="HSali云",浙江卫视
-http://27.223.170.170:4000/udp/239.253.254.84:8000
-#EXTINF:-1 group-title="HSali云",中国交通
-http://27.223.170.170:4000/udp/239.253.254.177:8000
-#EXTINF:-1 group-title="HSali云",重庆卫视
-http://27.223.170.170:4000/udp/239.253.254.38:8000
-#EXTINF:-1 group-title="HSali云",综合
-http://27.223.170.170:4000/udp/239.253.254.246:8000
-#EXTINF:-1 group-title="HSali云",游戏风云
-http://27.223.170.170:4000/udp/239.253.254.95:8000
+http://A/ku9/js/咪咕超简版.js?id=958475359
+#EXTINF:-1 group-title="HSali云",CETV1
+http://A/ku9/js/咪咕超简版.js?id=923287154
+#EXTINF:-1 group-title="HSali云",CETV2
+http://A/ku9/js/咪咕超简版.js?id=923287211
+#EXTINF:-1 group-title="HSali云",CETV4
+http://A/ku9/js/咪咕超简版.js?id=923287339
+#EXTINF:-1 group-title="HSali云",山东教育
+http://A/ku9/js/咪咕超简版.js?id=609154353
 #EXTINF:-1 group-title="HSali云",CCTV1综合
 http://bobohome.ignorelist.com:20247/migu?id=608807420.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV2财经
