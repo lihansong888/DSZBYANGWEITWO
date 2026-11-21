@@ -1,58 +1,40 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS央视频道",CCTV1
-http://45.192.97.170:8880/play/11914.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV2
-http://45.192.97.170:8880/play/11915.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV3
-http://45.192.97.170:8880/play/11916.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV4
-http://45.192.97.170:8880/play/11917.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV5
-http://45.192.97.170:8880/play/11918.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV5+
-http://45.192.97.170:8880/play/11919.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV6
-http://45.192.97.170:8880/play/11920.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV7
-http://45.192.97.170:8880/play/11921.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV8
-http://45.192.97.170:8880/play/11922.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV9
-http://45.192.97.170:8880/play/11923.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV10
-http://45.192.97.170:8880/play/11924.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV11
-http://45.192.97.170:8880/play/11925.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV12
-http://45.192.97.170:8880/play/11926.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV13
-http://45.192.97.170:8880/play/11927.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV14
-http://45.192.97.170:8880/play/11928.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV15
-http://45.192.97.170:8880/play/11929.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV16
-http://45.192.97.170:8880/play/11930.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV17
-http://45.192.97.170:8880/play/11931.m3u8
-#EXTINF:-1 group-title="HS央视频道",第一剧场
-http://45.192.97.170:8880/play/11932.m3u8
-#EXTINF:-1 group-title="HS央视频道",风云剧场
-http://45.192.97.170:8880/play/11933.m3u8
-#EXTINF:-1 group-title="HS央视频道",怀旧剧场
-http://45.192.97.170:8880/play/11934.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtnar
-http://45.192.97.170:8880/play/11935.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtndoc
-http://45.192.97.170:8880/play/11936.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtn
-http://45.192.97.170:8880/play/11937.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtnfr
-http://45.192.97.170:8880/play/11938.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtnru
-http://45.192.97.170:8880/play/11939.m3u8
-#EXTINF:-1 group-title="HS央视频道",cgtnsp
-http://45.192.97.170:8880/play/11940.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-1
+http://45.192.97.170:8880/play/12050.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-2
+http://45.192.97.170:8880/play/12051.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-3
+http://45.192.97.170:8880/play/12052.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-4
+http://45.192.97.170:8880/play/12053.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-5
+http://45.192.97.170:8880/play/12054.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-5+
+http://45.192.97.170:8880/play/12055.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-6
+http://45.192.97.170:8880/play/12056.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-7
+http://45.192.97.170:8880/play/12057.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-8
+http://45.192.97.170:8880/play/12058.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-9
+http://45.192.97.170:8880/play/12059.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-10
+http://45.192.97.170:8880/play/12060.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-11
+http://45.192.97.170:8880/play/12061.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-12
+http://45.192.97.170:8880/play/12062.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-13
+http://45.192.97.170:8880/play/12063.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-14
+http://45.192.97.170:8880/play/12064.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-15
+http://45.192.97.170:8880/play/12065.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-16
+http://45.192.97.170:8880/play/12066.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV-17
+http://45.192.97.170:8880/play/12067.m3u8
 #EXTINF:-1 group-title="HS卫视频道",东南卫视
 http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",安徽卫视
@@ -61,74 +43,54 @@ http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",江苏卫视
 http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",北京卫视
-http://45.192.97.170:8880/play/11941.m3u8
-#EXTINF:-1 group-title="HS卫视频道",湖南卫视
-http://45.192.97.170:8880/play/11942.m3u8
-#EXTINF:-1 group-title="HS卫视频道",江苏卫视
-http://45.192.97.170:8880/play/11943.m3u8
-#EXTINF:-1 group-title="HS卫视频道",东方卫视
-http://45.192.97.170:8880/play/11944.m3u8
-#EXTINF:-1 group-title="HS卫视频道",浙江卫视
-http://45.192.97.170:8880/play/11945.m3u8
-#EXTINF:-1 group-title="HS卫视频道",湖北卫视
-http://45.192.97.170:8880/play/11946.m3u8
-#EXTINF:-1 group-title="HS卫视频道",天津卫视
-http://45.192.97.170:8880/play/11947.m3u8
-#EXTINF:-1 group-title="HS卫视频道",山东卫视
-http://45.192.97.170:8880/play/11948.m3u8
-#EXTINF:-1 group-title="HS卫视频道",辽宁卫视
-http://45.192.97.170:8880/play/11949.m3u8
-#EXTINF:-1 group-title="HS卫视频道",安徽卫视
-http://45.192.97.170:8880/play/11950.m3u8
-#EXTINF:-1 group-title="HS卫视频道",黑龙江卫视
-http://45.192.97.170:8880/play/11951.m3u8
-#EXTINF:-1 group-title="HS卫视频道",贵州卫视
-http://45.192.97.170:8880/play/11952.m3u8
 #EXTINF:-1 group-title="HS卫视频道",东南卫视
-http://45.192.97.170:8880/play/11953.m3u8
-#EXTINF:-1 group-title="HS卫视频道",重庆卫视
-http://45.192.97.170:8880/play/11954.m3u8
-#EXTINF:-1 group-title="HS卫视频道",江西卫视
-http://45.192.97.170:8880/play/11955.m3u8
-#EXTINF:-1 group-title="HS卫视频道",广东卫视
-http://45.192.97.170:8880/play/11956.m3u8
-#EXTINF:-1 group-title="HS卫视频道",河北卫视
-http://45.192.97.170:8880/play/11957.m3u8
-#EXTINF:-1 group-title="HS卫视频道",深圳卫视
-http://45.192.97.170:8880/play/11958.m3u8
-#EXTINF:-1 group-title="HS卫视频道",吉林卫视
-http://45.192.97.170:8880/play/11959.m3u8
-#EXTINF:-1 group-title="HS卫视频道",河南卫视
-http://45.192.97.170:8880/play/11960.m3u8
-#EXTINF:-1 group-title="HS卫视频道",四川卫视
-http://45.192.97.170:8880/play/11961.m3u8
-#EXTINF:-1 group-title="HS卫视频道",广西卫视
-http://45.192.97.170:8880/play/11962.m3u8
-#EXTINF:-1 group-title="HS卫视频道",陕西卫视
-http://45.192.97.170:8880/play/11963.m3u8
-#EXTINF:-1 group-title="HS卫视频道",山西卫视
-http://45.192.97.170:8880/play/11964.m3u8
-#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
-http://45.192.97.170:8880/play/11965.m3u8
-#EXTINF:-1 group-title="HS卫视频道",青海卫视
-http://45.192.97.170:8880/play/11966.m3u8
-#EXTINF:-1 group-title="HS卫视频道",海南卫视
-http://45.192.97.170:8880/play/11967.m3u8
-#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
-http://45.192.97.170:8880/play/11968.m3u8
-#EXTINF:-1 group-title="HS卫视频道",西藏卫视
-http://45.192.97.170:8880/play/11969.m3u8
-#EXTINF:-1 group-title="HS卫视频道",新疆卫视
-http://45.192.97.170:8880/play/11970.m3u8
-#EXTINF:-1 group-title="HS卫视频道",甘肃卫视
-http://45.192.97.170:8880/play/11971.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="HS卫视频道",云南卫视
-http://45.192.97.170:8880/play/11972.m3u8
-#EXTINF:-1 group-title="HS卫视频道",兵团卫视
-http://45.192.97.170:8880/play/11973.m3u8
-#EXTINF:-1 group-title="HS卫视频道",国学频道
-http://45.192.97.170:8880/play/11974.m3u8
+https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
+#EXTINF:-1 group-title="HS卫视频道",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
+http://120.76.248.139/live/bfgd/4200000110.m3u8
+#EXTINF:-1 group-title="HS卫视频道",农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 group-title="HS卫视频道",凤凰卫视台
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 group-title="HS卫视频道",厦门卫视
+http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
+#EXTINF:-1 group-title="HS卫视频道",吉林卫视
+http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
+http://120.76.248.139/live/bfgd/4200000118.m3u8
+#EXTINF:-1 group-title="HS卫视频道",安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 group-title="HS卫视频道",广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 group-title="HS卫视频道",延边卫视
+http://120.76.248.139/live/bfgd/4200000117.m3u8
+#EXTINF:-1 group-title="HS卫视频道",新疆卫视
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1 group-title="HS卫视频道",江苏卫视4K
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1 group-title="HS卫视频道",江西卫视
+https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="HS卫视频道",河北卫视
+http://120.76.248.139/live/bfgd/4200000108.m3u8
+#EXTINF:-1 group-title="HS卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 group-title="HS卫视频道",海南卫视
+http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1 group-title="HS卫视频道",海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1 group-title="HS卫视频道",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="HS卫视频道",澳门卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+#EXTINF:-1 group-title="HS卫视频道",贵州卫视
+https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="HS卫视频道",重庆卫视
+https://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611212001/app_2/_definst_/ls_2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HS卫视频道",陕西卫视
+https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="HSali云",CCTV1
 http://45.192.97.170:8880/play/10310.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV2
@@ -267,30 +229,34 @@ http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="HSali云",深圳卫视4K
 http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV8
-http://51.75.118.151:20299/cctv8k.m3u8
 #EXTINF:-1 group-title="HSali云",湖南4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="HSali云",深圳卫视4K
-http://192.187.124.34:81/live/szws4k.m3u8
-#EXTINF:-1 group-title="HSali云",江苏卫视4K
-http://192.187.124.34:81/live/jsws4k.m3u8
-#EXTINF:-1 group-title="HSali云",四川卫视4K
-http://192.187.124.34:81/live/scws4k.m3u8
-#EXTINF:-1 group-title="HSali云",山东卫视4K
-http://192.187.124.34:81/live/sdws4k.m3u8
-#EXTINF:-1 group-title="HSali云",东方卫视4K
-http://192.187.124.34:81/live/dfws4k.m3u8
-#EXTINF:-1 group-title="HSali云",广东卫视4K
-http://192.187.124.34:81/live/gdws4k.m3u8
-#EXTINF:-1 group-title="HSali云",苏州4k
+#EXTINF:-1 group-title="HSali云",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="HSali云",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="HSali云",南国都市4K
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1 group-title="HSali云",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="HSali云",广东卫视4K
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdws4k
+#EXTINF:-1 group-title="HSali云",广东卫视4K
+http://38.75.136.137:98/gslb/dsdqpub/gdws4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="HSali云",CCTV4K
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="HSali云",山东卫视4K
+http://38.75.136.137:98/gslb/dsdqpub/sdws4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="HSali云",四川卫视4K
+http://38.75.136.137:98/gslb/dsdqpub/scws4k.m3u8?auth=testpub
+#EXTINF:-1 group-title="HSali云",四川卫视4K
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=scws4k
+#EXTINF:-1 group-title="HSali云",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 group-title="HSali云",河北4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
 #EXTINF:-1 group-title="HSali云",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$LR•IPV4
-#EXTINF:-1 group-title="HSali云",东方卫视4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV-1HD
 http://107.150.60.122/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="HSali云",CCTV-2HD
