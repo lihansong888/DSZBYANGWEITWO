@@ -1,40 +1,138 @@
 #EXTM3U
-#EXTINF:-1 group-title="HS央视频道",CCTV-1
-http://45.192.97.170:8880/play/12050.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-2
-http://45.192.97.170:8880/play/12051.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-3
-http://45.192.97.170:8880/play/12052.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-4
-http://45.192.97.170:8880/play/12053.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-5
-http://45.192.97.170:8880/play/12054.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-5+
-http://45.192.97.170:8880/play/12055.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-6
-http://45.192.97.170:8880/play/12056.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-7
-http://45.192.97.170:8880/play/12057.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-8
-http://45.192.97.170:8880/play/12058.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-9
-http://45.192.97.170:8880/play/12059.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-10
-http://45.192.97.170:8880/play/12060.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-11
-http://45.192.97.170:8880/play/12061.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-12
-http://45.192.97.170:8880/play/12062.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-13
-http://45.192.97.170:8880/play/12063.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-14
-http://45.192.97.170:8880/play/12064.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-15
-http://45.192.97.170:8880/play/12065.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-16
-http://45.192.97.170:8880/play/12066.m3u8
-#EXTINF:-1 group-title="HS央视频道",CCTV-17
-http://45.192.97.170:8880/play/12067.m3u8
+#EXTINF:-1 group-title="HS央视频道",CCTV1
+webview://https://yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 group-title="HS央视频道",CCTV2
+webview://https://yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 group-title="HS央视频道",CCTV3
+webview://https://yangshipin.cn/tv/home?pid=600001801
+#EXTINF:-1 group-title="HS央视频道",CCTV4
+webview://https://yangshipin.cn/tv/home?pid=600001814
+#EXTINF:-1 group-title="HS央视频道",CCTV5
+webview://https://yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 group-title="HS央视频道",CCTV6
+webview://https://yangshipin.cn/tv/home?pid=600108442
+#EXTINF:-1 group-title="HS央视频道",CCTV7
+webview://https://yangshipin.cn/tv/home?pid=600004092
+#EXTINF:-1 group-title="HS央视频道",CCTV8
+webview://https://yangshipin.cn/tv/home?pid=600001803
+#EXTINF:-1 group-title="HS央视频道",CCTV9
+webview://https://yangshipin.cn/tv/home?pid=600004078
+#EXTINF:-1 group-title="HS央视频道",CCTV10
+webview://https://yangshipin.cn/tv/home?pid=600001805
+#EXTINF:-1 group-title="HS央视频道",CCTV11
+webview://https://yangshipin.cn/tv/home?pid=600001806
+#EXTINF:-1 group-title="HS央视频道",CCTV12
+webview://https://yangshipin.cn/tv/home?pid=600001807
+#EXTINF:-1 group-title="HS央视频道",CCTV13
+webview://https://yangshipin.cn/tv/home?pid=600001811
+#EXTINF:-1 group-title="HS央视频道",CCTV14
+webview://https://yangshipin.cn/tv/home?pid=600001809
+#EXTINF:-1 group-title="HS央视频道",CCTV15
+webview://https://yangshipin.cn/tv/home?pid=600001815
+#EXTINF:-1 group-title="HS央视频道",CCTV16
+webview://https://yangshipin.cn/tv/home?pid=600098637
+#EXTINF:-1 group-title="HS央视频道",CCTV17
+webview://https://yangshipin.cn/tv/home?pid=600001810
+#EXTINF:-1 group-title="HS央视频道",CCTV5+
+webview://https://yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 group-title="HS央视频道",CCTV4K
+webview://https://yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 group-title="HS央视频道",CCTV8K
+webview://https://yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1 group-title="HS央视频道",CCTV1
+webview://https://tv.cctv.com/live/cctv1/
+#EXTINF:-1 group-title="HS央视频道",CCTV2
+webview://https://tv.cctv.com/live/cctv2/
+#EXTINF:-1 group-title="HS央视频道",CCTV3
+webview://https://tv.cctv.com/live/cctv3/
+#EXTINF:-1 group-title="HS央视频道",CCTV4
+webview://https://tv.cctv.com/live/cctv4/
+#EXTINF:-1 group-title="HS央视频道",CCTV5
+webview://https://tv.cctv.com/live/cctv5/
+#EXTINF:-1 group-title="HS央视频道",CCTV6
+webview://https://tv.cctv.com/live/cctv6/
+#EXTINF:-1 group-title="HS央视频道",CCTV7
+webview://https://tv.cctv.com/live/cctv7/
+#EXTINF:-1 group-title="HS央视频道",CCTV8
+webview://https://tv.cctv.com/live/cctv8/
+#EXTINF:-1 group-title="HS央视频道",CCTV9
+webview://https://tv.cctv.com/live/cctvjilu/
+#EXTINF:-1 group-title="HS央视频道",CCTV10
+webview://https://tv.cctv.com/live/cctv10/
+#EXTINF:-1 group-title="HS央视频道",CCTV11
+webview://https://tv.cctv.com/live/cctv11/
+#EXTINF:-1 group-title="HS央视频道",CCTV12
+webview://https://tv.cctv.com/live/cctv12/
+#EXTINF:-1 group-title="HS央视频道",CCTV13
+webview://https://tv.cctv.com/live/cctv13/
+#EXTINF:-1 group-title="HS央视频道",CCTV14
+webview://https://tv.cctv.com/live/cctvchild/
+#EXTINF:-1 group-title="HS央视频道",CCTV15
+webview://https://tv.cctv.com/live/cctv15/
+#EXTINF:-1 group-title="HS央视频道",CCTV16
+webview://https://tv.cctv.com/live/cctv16/
+#EXTINF:-1 group-title="HS央视频道",CCTV17
+webview://https://tv.cctv.com/live/cctv17/
+#EXTINF:-1 group-title="HS央视频道",CCTV4(欧)
+webview://https://tv.cctv.com/live/cctveurope/
+#EXTINF:-1 group-title="HS央视频道",CCTV4(美)
+webview://https://tv.cctv.com/live/cctvamerica/
+#EXTINF:-1 group-title="HS央视频道",CCTV5+
+webview://https://tv.cctv.com/live/cctv5plus/
+#EXTINF:-1 group-title="HS央视频道",CCTV风云剧场
+webview://https://yangshipin.cn/tv/home?pid=600099658
+#EXTINF:-1 group-title="HS央视频道",CCTV第一剧场
+webview://https://yangshipin.cn/tv/home?pid=600099655
+#EXTINF:-1 group-title="HS央视频道",CCTV怀旧剧场
+webview://https://yangshipin.cn/tv/home?pid=600099620
+#EXTINF:-1 group-title="HS央视频道",CGTN英语
+webview://https://yangshipin.cn/tv/home?pid=600014550
+#EXTINF:-1 group-title="HS央视频道",CGTN纪录
+webview://https://yangshipin.cn/tv/home?pid=600084781
+#EXTINF:-1 group-title="HS央视频道",CGTN俄语
+webview://https://yangshipin.cn/tv/home?pid=600084758
+#EXTINF:-1 group-title="HS央视频道",CGTN法语
+webview://https://yangshipin.cn/tv/home?pid=600084704
+#EXTINF:-1 group-title="HS央视频道",CGTN西语
+webview://https://yangshipin.cn/tv/home?pid=600084744
+#EXTINF:-1 group-title="HS央视频道",CGTN阿语
+webview://https://yangshipin.cn/tv/home?pid=600084782
+#EXTINF:-1 group-title="HS央视频道",CCTV1
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886
+#EXTINF:-1 group-title="HS央视频道",CCTV2
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103
+#EXTINF:-1 group-title="HS央视频道",CCTV4
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952
+#EXTINF:-1 group-title="HS央视频道",CCTV7
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=8516529981177953694
+#EXTINF:-1 group-title="HS央视频道",CCTV9
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=7252237247689203957
+#EXTINF:-1 group-title="HS央视频道",CCTV10
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=14589146016461298119
+#EXTINF:-1 group-title="HS央视频道",CCTV12
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=13180385922471124325
+#EXTINF:-1 group-title="HS央视频道",CCTV17
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=4496917190172866934
+#EXTINF:-1 group-title="HS央视频道",CCTV4K
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=2127841942201075403
+#EXTINF:-1 group-title="HS央视频道",CCTV13
+webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228
+#EXTINF:-1 group-title="HS央视频道",CCTV16-4K
+webview://https://yangshipin.cn/tv/home?pid=600099502
+#EXTINF:-1 group-title="HS央视频道",CGTN
+webview://https://www.cgtn.com/tv
+#EXTINF:-1 group-title="HS央视频道",CGTN西语
+webview://https://espanol.cgtn.com/en-directo
+#EXTINF:-1 group-title="HS央视频道",CGTN法语
+webview://https://francais.cgtn.com/channel
+#EXTINF:-1 group-title="HS央视频道",CGTN阿语
+webview://https://arabic.cgtn.com/channel
+#EXTINF:-1 group-title="HS央视频道",CGTN俄语
+webview://https://russian.cgtn.com/channel
+#EXTINF:-1 group-title="HS央视频道",CGTN纪录
+webview://https://www.cgtn.com/channel/documentary
+#EXTINF:-1 group-title="HS央视频道",CCTV6
+webview://https://m.1905.com/m/cctv6/gzh/?home
 #EXTINF:-1 group-title="HS卫视频道",东南卫视
 http://125.43.249.76:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",安徽卫视
@@ -43,190 +141,74 @@ http://125.43.249.76:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 http://125.43.249.76:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="HS卫视频道",江苏卫视
 http://125.43.249.76:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 group-title="HS卫视频道",北京卫视
+webview://https://yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 group-title="HS卫视频道",江苏卫视
+webview://https://yangshipin.cn/tv/home?pid=600002521
 #EXTINF:-1 group-title="HS卫视频道",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 group-title="HS卫视频道",东方卫视4K
-http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-#EXTINF:-1 group-title="HS卫视频道",云南卫视
-https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-#EXTINF:-1 group-title="HS卫视频道",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
-http://120.76.248.139/live/bfgd/4200000110.m3u8
-#EXTINF:-1 group-title="HS卫视频道",农林卫视
-http://120.76.248.139/live/bfgd/4200000122.m3u8
-#EXTINF:-1 group-title="HS卫视频道",凤凰卫视台
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="HS卫视频道",厦门卫视
-http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 group-title="HS卫视频道",吉林卫视
-http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",四川卫视
-https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
-http://120.76.248.139/live/bfgd/4200000118.m3u8
-#EXTINF:-1 group-title="HS卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8
-#EXTINF:-1 group-title="HS卫视频道",广东卫视
-https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-#EXTINF:-1 group-title="HS卫视频道",延边卫视
-http://120.76.248.139/live/bfgd/4200000117.m3u8
-#EXTINF:-1 group-title="HS卫视频道",新疆卫视
-http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-#EXTINF:-1 group-title="HS卫视频道",江苏卫视4K
-http://8.138.7.223/tv/jsws4k.php
-#EXTINF:-1 group-title="HS卫视频道",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",河北卫视
-http://120.76.248.139/live/bfgd/4200000108.m3u8
+webview://https://yangshipin.cn/tv/home?pid=600002483
 #EXTINF:-1 group-title="HS卫视频道",浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 group-title="HS卫视频道",海南卫视
-http://120.76.248.139/live/bfgd/4200000473.m3u8
-#EXTINF:-1 group-title="HS卫视频道",海峡卫视
-http://8.138.7.223/tv/hxws.m3u8
+webview://https://yangshipin.cn/tv/home?pid=600002520
 #EXTINF:-1 group-title="HS卫视频道",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 group-title="HS卫视频道",澳门卫视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
-#EXTINF:-1 group-title="HS卫视频道",西藏卫视
-http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="HS卫视频道",贵州卫视
-https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+webview://https://yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 group-title="HS卫视频道",湖北卫视
+webview://https://yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 group-title="HS卫视频道",广东卫视
+webview://https://yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 group-title="HS卫视频道",广西卫视
+webview://https://yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 group-title="HS卫视频道",黑龙江卫视
+webview://https://yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 group-title="HS卫视频道",海南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002506
 #EXTINF:-1 group-title="HS卫视频道",重庆卫视
-https://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611231306/app_2/_definst_/ls_2.stream/chunklist.m3u8
+webview://https://yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 group-title="HS卫视频道",深圳卫视
+webview://https://yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 group-title="HS卫视频道",四川卫视
+webview://https://yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 group-title="HS卫视频道",河南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 group-title="HS卫视频道",福建东南卫视
+webview://https://yangshipin.cn/tv/home?pid=600002484
+#EXTINF:-1 group-title="HS卫视频道",贵州卫视
+webview://https://yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 group-title="HS卫视频道",江西卫视
+webview://https://yangshipin.cn/tv/home?pid=600002503
+#EXTINF:-1 group-title="HS卫视频道",辽宁卫视
+webview://https://yangshipin.cn/tv/home?pid=600002505
+#EXTINF:-1 group-title="HS卫视频道",安徽卫视
+webview://https://yangshipin.cn/tv/home?pid=600002532
+#EXTINF:-1 group-title="HS卫视频道",河北卫视
+webview://https://yangshipin.cn/tv/home?pid=600002493
+#EXTINF:-1 group-title="HS卫视频道",山东卫视
+webview://https://yangshipin.cn/tv/home?pid=600002513
+#EXTINF:-1 group-title="HS卫视频道",天津卫视
+webview://https://yangshipin.cn/tv/home?pid=600152137
+#EXTINF:-1 group-title="HS卫视频道",吉林卫视
+webview://https://yangshipin.cn/tv/home?pid=600190405
 #EXTINF:-1 group-title="HS卫视频道",陕西卫视
-https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="HSali云",CCTV1
-http://45.192.97.170:8880/play/10310.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV2
-http://45.192.97.170:8880/play/10311.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV3
-http://45.192.97.170:8880/play/10312.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV4
-http://45.192.97.170:8880/play/10313.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV4欧洲
-http://45.192.97.170:8880/play/10314.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV4美洲
-http://45.192.97.170:8880/play/10315.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV5
-http://45.192.97.170:8880/play/10316.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV5+
-http://45.192.97.170:8880/play/10317.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV6
-http://45.192.97.170:8880/play/10318.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV7
-http://45.192.97.170:8880/play/10319.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV8
-http://45.192.97.170:8880/play/10320.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV9
-http://45.192.97.170:8880/play/10321.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV10
-http://45.192.97.170:8880/play/10322.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV11
-http://45.192.97.170:8880/play/10323.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV12
-http://45.192.97.170:8880/play/10324.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV13
-http://45.192.97.170:8880/play/10325.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV14
-http://45.192.97.170:8880/play/10326.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV15
-http://45.192.97.170:8880/play/10327.m3u8
-#EXTINF:-1 group-title="HSali云",CCTV17
-http://45.192.97.170:8880/play/10328.m3u8
-#EXTINF:-1 group-title="HSali云",广东体育
-http://45.192.97.170:8880/play/11913.m3u8
-#EXTINF:-1 group-title="HSali云",赛事最经典
-http://45.192.97.170:8880/play/10329.m3u8
-#EXTINF:-1 group-title="HSali云",体坛名栏汇
-http://45.192.97.170:8880/play/10330.m3u8
-#EXTINF:-1 group-title="HSali云",四海钓鱼
-http://45.192.97.170:8880/play/10331.m3u8
-#EXTINF:-1 group-title="HSali云",大湾区卫视
-http://45.192.97.170:8880/play/10332.m3u8
-#EXTINF:-1 group-title="HSali云",陕西体育
-http://45.192.97.170:8880/play/10333.m3u8
-#EXTINF:-1 group-title="HSali云",辽宁体育
-http://45.192.97.170:8880/play/10334.m3u8
-#EXTINF:-1 group-title="HSali云",东方卫视
-http://45.192.97.170:8880/play/10335.m3u8
-#EXTINF:-1 group-title="HSali云",江苏卫视
-http://45.192.97.170:8880/play/10336.m3u8
-#EXTINF:-1 group-title="HSali云",广东卫视
-http://45.192.97.170:8880/play/10337.m3u8
-#EXTINF:-1 group-title="HSali云",北京卫视
-http://45.192.97.170:8880/play/10338.m3u8
-#EXTINF:-1 group-title="HSali云",辽宁卫视
-http://45.192.97.170:8880/play/10339.m3u8
-#EXTINF:-1 group-title="HSali云",河北卫视
-http://45.192.97.170:8880/play/10340.m3u8
-#EXTINF:-1 group-title="HSali云",江西卫视
-http://45.192.97.170:8880/play/10341.m3u8
-#EXTINF:-1 group-title="HSali云",陕西卫视
-http://45.192.97.170:8880/play/10342.m3u8
-#EXTINF:-1 group-title="HSali云",湖北卫视
-http://45.192.97.170:8880/play/10343.m3u8
-#EXTINF:-1 group-title="HSali云",农林卫视
-http://45.192.97.170:8880/play/10344.m3u8
-#EXTINF:-1 group-title="HSali云",兵团卫视
-http://45.192.97.170:8880/play/10345.m3u8
-#EXTINF:-1 group-title="HSali云",上海新闻综合
-http://45.192.97.170:8880/play/10346.m3u8
-#EXTINF:-1 group-title="HSali云",上视东方影视
-http://45.192.97.170:8880/play/10347.m3u8
-#EXTINF:-1 group-title="HSali云",公共新闻频道
-http://45.192.97.170:8880/play/10348.m3u8
-#EXTINF:-1 group-title="HSali云",盐城新闻综合
-http://45.192.97.170:8880/play/10349.m3u8
-#EXTINF:-1 group-title="HSali云",江阴新闻综合
-http://45.192.97.170:8880/play/10350.m3u8
-#EXTINF:-1 group-title="HSali云",南通新闻综合
-http://45.192.97.170:8880/play/10351.m3u8
-#EXTINF:-1 group-title="HSali云",宜兴新闻综合
-http://45.192.97.170:8880/play/10352.m3u8
-#EXTINF:-1 group-title="HSali云",溧水新闻综合
-http://45.192.97.170:8880/play/10353.m3u8
-#EXTINF:-1 group-title="HSali云",陕西银龄频道
-http://45.192.97.170:8880/play/10354.m3u8
-#EXTINF:-1 group-title="HSali云",陕西都市青春频道
-http://45.192.97.170:8880/play/10355.m3u8
-#EXTINF:-1 group-title="HSali云",陕西秦腔频道
-http://45.192.97.170:8880/play/10356.m3u8
-#EXTINF:-1 group-title="HSali云",陕西新闻资讯频道
-http://45.192.97.170:8880/play/10357.m3u8
-#EXTINF:-1 group-title="HSali云",财富天下
-http://45.192.97.170:8880/play/10358.m3u8
-#EXTINF:-1 group-title="HSali云",辽宁公共频道
-http://45.192.97.170:8880/play/10359.m3u8
-#EXTINF:-1 group-title="HSali云",辽宁生活频道
-http://45.192.97.170:8880/play/10360.m3u8
-#EXTINF:-1 group-title="HSali云",辽宁影视剧频道
-http://45.192.97.170:8880/play/10361.m3u8
-#EXTINF:-1 group-title="HSali云",宁夏文旅频道
-http://45.192.97.170:8880/play/10362.m3u8
-#EXTINF:-1 group-title="HSali云",宁夏经济频道
-http://45.192.97.170:8880/play/10363.m3u8
-#EXTINF:-1 group-title="HSali云",经典香港电影
-http://45.192.97.170:8880/play/10364.m3u8
-#EXTINF:-1 group-title="HSali云",抗战经典影片
-http://45.192.97.170:8880/play/10365.m3u8
-#EXTINF:-1 group-title="HSali云",新片放映厅
-http://45.192.97.170:8880/play/10366.m3u8
-#EXTINF:-1 group-title="HSali云",CHC影迷电影
-http://45.192.97.170:8880/play/10367.m3u8
-#EXTINF:-1 group-title="HSali云",CHC动作电影
-http://45.192.97.170:8880/play/10368.m3u8
-#EXTINF:-1 group-title="HSali云",CHC家庭影院
-http://45.192.97.170:8880/play/10369.m3u8
-#EXTINF:-1 group-title="HSali云",和美乡途轮播台
-http://45.192.97.170:8880/play/10370.m3u8
-#EXTINF:-1 group-title="HSali云",最强综艺趴
-http://45.192.97.170:8880/play/10371.m3u8
+webview://https://yangshipin.cn/tv/home?pid=600190400
+#EXTINF:-1 group-title="HS卫视频道",甘肃卫视
+webview://https://yangshipin.cn/tv/home?pid=600190408
+#EXTINF:-1 group-title="HS卫视频道",宁夏卫视
+webview://https://yangshipin.cn/tv/home?pid=600190737
+#EXTINF:-1 group-title="HS卫视频道",内蒙古卫视
+webview://https://yangshipin.cn/tv/home?pid=600190401
+#EXTINF:-1 group-title="HS卫视频道",云南卫视
+webview://https://yangshipin.cn/tv/home?pid=600190402
+#EXTINF:-1 group-title="HS卫视频道",山西卫视
+webview://https://yangshipin.cn/tv/home?pid=600190407
+#EXTINF:-1 group-title="HS卫视频道",青海卫视
+webview://https://yangshipin.cn/tv/home?pid=600190406
+#EXTINF:-1 group-title="HS卫视频道",西藏卫视
+webview://https://yangshipin.cn/tv/home?pid=600190403
+#EXTINF:-1 group-title="HS卫视频道",新疆卫视
+webview://https://www.yangshipin.cn/tv/home?pid=600152138
 #EXTINF:-1 group-title="HSali云",上海卫视4k
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 group-title="HSali云",江苏卫视4K
+webview://https://live.jstv.com/?channelId=676
 #EXTINF:-1 group-title="HSali云",苏州卫视4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="HSali云",苏州卫视4K
@@ -235,89 +217,9 @@ http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="HSali云",湖南卫视4k
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="HSali云",广东卫视4K
+webview://https://www.gdtv.cn/tvChannelDetail/16
 #EXTINF:-1 group-title="HSali云",深圳卫视4K
 http://livepull-tcyzb.sztv.com.cn/4KBack.m3u8
-#EXTINF:-1 group-title="咪-世-界",睛彩篮球
-http://45.192.97.170:8880/play/607.m3u8
-#EXTINF:-1 group-title="咪-世-界",睛彩青少
-http://45.192.97.170:8880/play/608.m3u8
-#EXTINF:-1 group-title="咪-世-界",睛彩广场舞
-http://45.192.97.170:8880/play/609.m3u8
-#EXTINF:-1 group-title="咪-世-界",睛彩竞技
-http://45.192.97.170:8880/play/610.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-1
-http://45.192.97.170:8880/play/611.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-2
-http://45.192.97.170:8880/play/612.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-3
-http://45.192.97.170:8880/play/613.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-4
-http://45.192.97.170:8880/play/614.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-5
-http://45.192.97.170:8880/play/615.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-6
-http://45.192.97.170:8880/play/616.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-7
-http://45.192.97.170:8880/play/617.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-8
-http://45.192.97.170:8880/play/618.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-9
-http://45.192.97.170:8880/play/619.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-10
-http://45.192.97.170:8880/play/620.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-11
-http://45.192.97.170:8880/play/621.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-12
-http://45.192.97.170:8880/play/622.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-13
-http://45.192.97.170:8880/play/623.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-14
-http://45.192.97.170:8880/play/624.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-15
-http://45.192.97.170:8880/play/625.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-16
-http://45.192.97.170:8880/play/626.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-24
-http://45.192.97.170:8880/play/627.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-25
-http://45.192.97.170:8880/play/628.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-26
-http://45.192.97.170:8880/play/629.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-27
-http://45.192.97.170:8880/play/630.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-28
-http://45.192.97.170:8880/play/631.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-29
-http://45.192.97.170:8880/play/632.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-30
-http://45.192.97.170:8880/play/633.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-31
-http://45.192.97.170:8880/play/634.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-32
-http://45.192.97.170:8880/play/635.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-33
-http://45.192.97.170:8880/play/636.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-34
-http://45.192.97.170:8880/play/637.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-35
-http://45.192.97.170:8880/play/638.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-36
-http://45.192.97.170:8880/play/639.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-37
-http://45.192.97.170:8880/play/640.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-38
-http://45.192.97.170:8880/play/641.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-39
-http://45.192.97.170:8880/play/642.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-40
-http://45.192.97.170:8880/play/643.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-41
-http://45.192.97.170:8880/play/644.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-42
-http://45.192.97.170:8880/play/645.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-43
-http://45.192.97.170:8880/play/646.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-44
-http://45.192.97.170:8880/play/647.m3u8
-#EXTINF:-1 group-title="咪-世-界",咪咕视频-45
-http://45.192.97.170:8880/play/648.m3u8
+#EXTINF:-1 group-title="HSali云",深圳卫视4K
+webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
